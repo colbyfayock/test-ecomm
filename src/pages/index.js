@@ -50,7 +50,7 @@ export default function Home() {
                 data-item-id="spacejelly_tshirt"
                 data-item-name="Space Jelly Tshirt"
                 data-item-price="20.00"
-                data-item-url={"/"}
+                data-item-url="https://test-ecomm.netlify.app/"
                 data-item-image={imageShirt}>
                   Add to Cart
               </Button>
